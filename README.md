@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hello, I'm Ron
 
-<!--
-**ronvar/ronvar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack engineer with 6+ years shipping production React / Next.js / TypeScript apps.
+Most recently at **BP.fun** — previously Mentaport, Bello, Medal.tv, Gif Your Game.
 
-Here are some ideas to get you started:
+🟢 **Open to new opportunities** — frontend or full-stack roles at product companies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+→ **Portfolio & experience:** [ronvargas.dev](https://ronvargas.dev)
+→ **LinkedIn:** [linkedin.com/in/rvar](https://linkedin.com/in/rvar)
+→ **Email:** ron.var@icloud.com
+
+---
+
+**What I reach for most days:** React, Next.js, TypeScript, Node, PostgreSQL, AWS.
+**What I've been playing with:** Claude Code, agentic workflows, self-hosted media automation.
+
+Pinned repos below are a sample. The full story lives on [ronvargas.dev](https://ronvargas.dev).
