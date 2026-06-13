@@ -1,4 +1,4 @@
-### Hello, I'm Ron
+### Hi, I'm Ron
 
 Full-stack engineer with 6+ years shipping production React / Next.js / TypeScript apps.
 Most recently at **BP.fun** — previously Mentaport, Bello, Medal.tv, Gif Your Game.
